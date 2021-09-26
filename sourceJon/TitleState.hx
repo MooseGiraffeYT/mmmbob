@@ -402,13 +402,13 @@ class TitleState extends MusicBeatState
 			// credTextShit.text = "Friday";
 			// credTextShit.screenCenter();
 			case 13:
-				addMoreText('literally');
+				addMoreText('vs');
 			// credTextShit.visible = true;
 			case 14:
-				addMoreText('every fnf mod');
+				addMoreText('bob');
 			// credTextShit.text += '\nNight';
 			case 15:
-				addMoreText('ever'); // credTextShit.text += '\nFunkin';
+				addMoreText('corrupted'); // credTextShit.text += '\nFunkin';
 
 			case 16:
 				skipIntro();
